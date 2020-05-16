@@ -1,7 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 
-# tree = ET.parse('OAA.rss')
+tree = ET.parse('OAA.rss')
 # root = tree.getroot()
 # count = 1
 # showname = "OAA"
